@@ -3,7 +3,7 @@ import requests
 import time
 from pushbullet import Pushbullet
 
-API_KEY = 'o.miq9jvjygGKCx6BWZAJxU27j9ewHB5Xo'
+API_KEY = ''
 
 pb = Pushbullet(API_KEY)
 
